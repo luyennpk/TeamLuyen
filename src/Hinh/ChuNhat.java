@@ -18,7 +18,7 @@ public class ChuNhat {
 	public float Tinh_Chu_Vi()
 	
 	{
-		return (chieuDai + chieuRong)*2;
+		return (chieuDai + chieuRong)*3;
 	}
 
 }
